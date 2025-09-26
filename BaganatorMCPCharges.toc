@@ -1,0 +1,7 @@
+## Interface: 11400
+## Title: Baganator MCP Charges
+## Notes: Adds a charges display for Manual Crowd Pummeler to Baganator item icons
+## Dependencies: Baganator
+## LoadWith: Baganator
+## SavedVariables:
+BaganatorMCPCharges.lua
